@@ -42,8 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Journal.cs" />
+    <Compile Include="MyNewCollection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\DistanceStudent.cs" />
+    <Compile Include="Properties\ExtramuralStudent.cs" />
+    <Compile Include="Properties\FullTimeStudent.cs" />
+    <Compile Include="Properties\MyQueue.cs" />
+    <Compile Include="Properties\Student.cs" />
+    <Compile Include="Properties\StudentCreate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
